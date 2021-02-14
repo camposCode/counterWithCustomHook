@@ -1,0 +1,17 @@
+body{
+         padding: 8rem;
+         background-color: #dfe6e9;
+}
+
+h1{
+         margin-left: 5rem;
+}
+
+.btn-wrapper{
+         display: flex;
+         justify-content: space-around;
+}
+.btn{
+         border: 1px solid black;
+         background-color: #81ecec;
+}
